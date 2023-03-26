@@ -53,7 +53,7 @@ function paintWords() {
   function highlight() {
     let count = sentence.length;
     let hue = count in hues ? hues[count] : hues[hues.length - 1];
-    let color = `hsl(${hue}, 93%, 90%)`;
+    let color = `hsla(${hue}, 93%, 90%, 50%)`;
     for (let word of sentence) {
       word.style.backgroundColor = color;
       word.style.boxShadow = `0.2em 0 ${color}, -0.2em 0 ${color}`;
