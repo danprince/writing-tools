@@ -3,7 +3,7 @@ Collection of personal tools for analysing writing on the web, bundled together 
 ## Sentence Length
 Inspired by [Gary Provost's](https://www.garyprovost.com/) legendary musical writing example and [wooorm/write-music](https://github.com/wooorm/write-music). Run with <kbd>alt+shift+p</kbd>.
 
-<img width="726" alt="image" src="https://user-images.githubusercontent.com/1266011/218317905-88168c1b-f3a0-473d-b399-9f153956f49a.png">
+<img width="741" alt="Screenshot 2023-03-26 at 07 33 19" src="https://user-images.githubusercontent.com/1266011/227755456-1a40902a-1c51-4854-8178-cbbc3eeee3da.png">
 
 
 
